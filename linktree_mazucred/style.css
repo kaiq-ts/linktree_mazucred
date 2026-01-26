@@ -64,7 +64,7 @@ h1 {
     transform: scale(1.03);
 
     .icon {
-        content: url("WhatsApp_azul.svg");
+        content: url("assets/WhatsApp_azul.svg");
     }
 }
 
