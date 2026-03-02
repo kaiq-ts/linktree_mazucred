@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #2f4157;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+.container {
+    width: 100%;
+    max-width: 420px;
+    text-align: center;
+    padding: 20px;
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid #f5c400;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 14px;
+    margin-bottom: 25px;
+    line-height: 1.4;
+}
+
+.links a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    text-decoration: none;
+    color: #ffffff;
+    border: 2px solid #f5c400;
+    border-radius: 10px;
+    padding: 14px;
+    margin-bottom: 12px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+
+
+.links a:hover {
+    background-color: #f5c400;
+    color: #2f4157;
+    transform: scale(1.03);
+
+    .icon {
+        content: url("assets/WhatsApp_azul.svg");
+    }
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 12px;
+    opacity: 0.8;
+}
