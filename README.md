@@ -1,6 +1,6 @@
 # Refund Application
 
-A simple refund application using HTML, CSS, and JavaScript.
+A simple linktree application using HTML and CSS.
 
 <p align="left">
      <a href="https://linktreemazucred.netlify.app/" target="_blank">📱 Visit this Project</a><br>
