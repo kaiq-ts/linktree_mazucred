@@ -1,4 +1,4 @@
-# Refund Application
+# Linktree Application
 
 A simple linktree application using HTML and CSS.
 
